@@ -1,0 +1,482 @@
+
+
+******* Build and Print Test *******
+5
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Greateen Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+
+
+
+******** Synchronisaiton ********
+**** inside run()****
+**** inside run() ops****
+
+Option Name Updating to....
+blue
+
+
+**** inside run()****
+**** inside run() ops****
+random Waiting!!
+
+
+Option Name Updating to....
+red
+
+
+random Waiting!!
+
+**** inside run()****
+**** inside run() ops****
+
+
+
+Fetching the Price of the option
+FordZTW
+Color
+Gold Clearcoat Metallic
+
+0.0
+
+
+**** inside run()****
+**** inside run() ops****
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+Option Price Updating to...
+500.0
+
+
+random Waiting!!
+
+The name of model: null
+**** inside run()****
+**** inside run() ops****
+
+
+**** inside run()****
+**** inside run() ops****
+
+Option Price Updating to...
+1000.0
+
+
+random Waiting!!
+
+
+Fetching the name of the option
+FordZTW
+Color
+0
+
+The base price of model: 18445
+The optionset name: Color
+The option name is: Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+Comaparing...
+
+Color
+Color
+There was a option name match. Fetching the contents..
+Gold Clearcoat Metallic
+
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+
+Option Name Updated
+blue
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+
+Option Name Updated
+red
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: red
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+
+Option Price Updated to
+1000.0
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: red
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+
+Option Price Updated to
+500.0
+
+*****************************
+***** The current state *****
+*****************************
+The name of model: null
+The base price of model: 18445
+The optionset name: Color
+The option name is: red
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Transaction Control
+The option name is: Standard
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 350.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+*****************************
+*****************************
+

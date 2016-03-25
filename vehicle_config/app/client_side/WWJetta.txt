@@ -1,0 +1,51 @@
+5
+10
+2
+3
+2
+2
+WWJetta
+50000
+Color
+Transmission
+Brakes/Transaction Control
+Side Impact Air Bags
+Power Moonroof
+Gold Clearcoat Metallic
+Liquid Grey Clearcoat Metallic
+Infra-Red Clearcoat
+Grabber Green Clearcoat Metallic
+Sangria Red Clearcoat Metallic
+French Blue Clearcoat Metallic
+Twilight Blue Clearcoat Metallic
+CD Silver Clearcoat Metallic
+Pitch Black Clearcoat
+Cloud 9 White Clearcoat
+automatic
+manual
+Standard
+ABS
+ABS with Advance Trac
+present
+not present
+present
+not present
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5000
+0
+5000
+10000
+5000
+0
+5000
+0

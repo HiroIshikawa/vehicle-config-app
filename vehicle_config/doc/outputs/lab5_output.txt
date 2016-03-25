@@ -1,0 +1,188 @@
+making socket
+socket made
+starting clinet process
+The Car Configuration Tool
+Please enter 'upload' or 'config': 
+upload
+inside upload proces
+Please enter the file name to upload: 
+car1.Properties
+After out prop
+Completed
+After in read
+starting clinet process
+The Car Configuration Tool
+Please enter 'upload' or 'config': 
+config
+inside config proces
+from server autoModelList: 
+FordZTW
+Enter the model name: 
+FordZTW
+This is the model info
+The name of model: FordZTW
+The base price of model: 18445
+The optionset name: Color
+The option name is: Fort Knox Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 815.0
+The optionset name: Brakes/Traction Control
+The option name is: Standards 
+The option price is: 0.0
+The option name is: ABS
+The option price is: 400.0
+The option name is: ABS with Advance Trac
+The option price is: 1625.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 595.0
+The option name is: not present
+The option price is: 0.0
+Enter color you want to choose
+French Blue Clearcoat Metallic
+Enter transmisison you want to choose
+automatic
+Enter brakes/traction control you want to choose
+ABS
+Enter side impact airt bags present or not present
+present
+Enter powerroof present or not present
+not present
+Summary of your choice: 
+Color
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+Transmission
+The option name is: automatic
+The option price is: 0.0
+Brakes/Traction Control
+The option name is: ABS
+The option price is: 400.0
+Side Impact Air Bags
+The option name is: present
+The option price is: 595.0
+Power Moonroof
+The option name is: not present
+The option price is: 0.0
+starting clinet process
+The Car Configuration Tool
+Please enter 'upload' or 'config': 
+upload
+inside upload proces
+Please enter the file name to upload: 
+car2.Properties
+After out prop
+Completed
+After in read
+starting clinet process
+The Car Configuration Tool
+Please enter 'upload' or 'config': 
+config
+inside config proces
+from server autoModelList: 
+FordZTW
+Carolla
+Enter the model name: 
+Carolla
+This is the model info
+The name of model: Carolla
+The base price of model: 25000
+The optionset name: Color
+The option name is: Fort Knox Gold Clearcoat Metallic
+The option price is: 0.0
+The option name is: Liquid Grey Clearcoat Metallic
+The option price is: 0.0
+The option name is: Infra-Red Clearcoat
+The option price is: 0.0
+The option name is: Grabber Green Clearcoat Metallic
+The option price is: 0.0
+The option name is: Sangria Red Clearcoat Metallic
+The option price is: 0.0
+The option name is: French Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: Twilight Blue Clearcoat Metallic
+The option price is: 0.0
+The option name is: CD Silver Clearcoat Metallic
+The option price is: 0.0
+The option name is: Pitch Black Clearcoat
+The option price is: 0.0
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+The optionset name: Transmission
+The option name is: automatic
+The option price is: 0.0
+The option name is: manual
+The option price is: 1200.0
+The optionset name: Brakes/Traction Control
+The option name is: Standards 
+The option price is: 0.0
+The option name is: ABS
+The option price is: 2500.0
+The option name is: ABS with Advance Trac
+The option price is: 2000.0
+The optionset name: Side Impact Air Bags
+The option name is: present
+The option price is: 0.0
+The option name is: not present
+The option price is: 800.0
+The optionset name: Power Moonroof
+The option name is: present
+The option price is: 0.0
+The option name is: not present
+The option price is: 700.0
+Enter color you want to choose
+Cloud 9 White Clearcoat
+Enter transmisison you want to choose
+manual
+Enter brakes/traction control you want to choose
+ABS with Advance Trac
+Enter side impact airt bags present or not present
+not present
+Enter powerroof present or not present
+present
+Summary of your choice: 
+Color
+The option name is: Cloud 9 White Clearcoat
+The option price is: 0.0
+Transmission
+The option name is: manual
+The option price is: 1200.0
+Brakes/Traction Control
+The option name is: ABS with Advance Trac
+The option price is: 2000.0
+Side Impact Air Bags
+The option name is: not present
+The option price is: 800.0
+Power Moonroof
+The option name is: present
+The option price is: 0.0
+starting clinet process
+The Car Configuration Tool
+Please enter 'upload' or 'config':
